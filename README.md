@@ -29,7 +29,7 @@ with open('f1.txt','r') as f1:
 ## File 2
 ![f2](https://github.com/abinayasangeetha/copy-file/assets/119393675/e468bee7-b7cc-49e9-81a6-5e0a4ab5e62a)
 ## File 1 copied into File 2
-![f2 txt](https://github.com/abinayasangeetha/copy-file/assets/119393675/b96ff4b8-78a7-4f2e-950e-87db05a4741c)
+![file copied ](https://github.com/abinayasangeetha/copy-file/assets/119393675/c7b6290c-0851-4576-85b9-d2e4bfddcff4)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
